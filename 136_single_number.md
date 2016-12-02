@@ -7,7 +7,10 @@ Your algorithm should have a linear runtime complexity. Could you implement it w
 
 
 # Answer
-Key to the sulotion:
-Using the feature of operater 'xor'.
+Key to the solution:
+
+Using the feature of operator 'xor'.
+
 A xor B xor A is B.
+
 This could reach linear runtime.
